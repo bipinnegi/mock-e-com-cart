@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Classic White Tee",
+    "price": 9.99,
+    "image": "https://picsum.photos/seed/tee/300",
+    "description": "Soft cotton unisex T\u2011shirt."
+  }, 
+  {
+    "name": "Blue Denim Jeans",
+    "price": 29.99,
+    "image": "https://picsum.photos/seed/jeans/300",
+    "description": "Slim fit, everyday denim."
+  },
+  {
+    "name": "Running Sneakers",
+    "price": 49.99,
+    "image": "https://picsum.photos/seed/sneakers/300",
+    "description": "Lightweight and comfy."
+  },
+  {
+    "name": "Minimalist Backpack",
+    "price": 34.99,
+    "image": "https://picsum.photos/seed/bag/300",
+    "description": "Daily carry backpack."
+  },
+  {
+    "name": "Analog Wrist Watch",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/watch/300",
+    "description": "Stainless steel, classic look."
+  },
+  {
+    "name": "Noise\u2011Cancel Headphones",
+    "price": 79.99,
+    "image": "https://picsum.photos/seed/headphones/300",
+    "description": "Deep bass, comfy cups."
+  }
+]
