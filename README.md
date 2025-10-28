@@ -129,4 +129,4 @@ For *Vibe Commerce* — Full Stack Developer Screening
 
 ---
 
-✨ *Simple. Modern. Complete. — Mock E-Com Cart by Anshul Negi*
+✨ *Simple. Modern. Complete. — Mock E-Com Cart by Bipin Negi*
