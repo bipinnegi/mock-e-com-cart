@@ -49,7 +49,7 @@ cd backend
 npm install
 
 # Create .env file (or copy .env.example)
-echo "MONGO_URI=mongodb+srv://mockuser:Mock12345@cluster0.7o5poup.mongodb.net/mockecom?retryWrites=true&w=majority&appName=Cluster0" > .env
+echo "MONGO_URI=mongodb+srv://<username>:<password>@cluster0.7o5poup.mongodb.net/mockecom?retryWrites=true&w=majority&appName=Cluster0" > .env
 echo "PORT=4000" >> .env
 
 npm run dev   # http://localhost:4000
@@ -124,7 +124,7 @@ npm run dev   # http://localhost:3000
 
 ## 🧑‍💻 Author & Credits
 
-**Developed by:** *Anshul Negi*  
+**Developed by:** *Bipin Negi*  
 For *Vibe Commerce* — Full Stack Developer Screening
 
 ---
