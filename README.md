@@ -106,7 +106,7 @@ npm run dev   # http://localhost:3000
 ## 🎥 Demo Video
 
 🎬 Watch the 1–2 minute walkthrough:  
-👉 [Unlisted YouTube / Loom Link Here](#)
+👉 [https://www.loom.com/share/3ed77b950f6b4674be105507128fa779](#)
 
 ---
 
